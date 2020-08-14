@@ -1,7 +1,10 @@
-# NICE
-Neuroblastoma Immunecontexture CharactErization
 
-## Background and significance ##
+# NICE
+**Neuroblastoma Immunecontexture CharactErization**
+
+Authors: *Salvatore L Renne, Marina Valeri* 
+
+## Background and significance 
 
 Peripheral neuroblastic tumors (PNTs) are among the most common neoplasms of childhood, occurring especially in the first two years of life. Despite therapeutic advances, about one in two high-risk patients eventually relapse and die of the disease. Age is known to be an important prognostic factor, impacting the outcome in a continuous fashion. The optimal cut-off value has been estimated at 460 days (about 15 months), and in several classification systems well established cut-offs are: 365 days (12 months, 1 year), 547 days (18 months, 1.5 years), and 60 months (5 years) of age. The mechanism through which age exerts its prognostic effect is largely unknown, sparse evidences point toward a different genetic profiles among ages: an association between ATRX mutation and older age was described. 
 
